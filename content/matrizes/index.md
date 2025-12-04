@@ -2,9 +2,13 @@
 title: Matrizes
 description:
 aliases:
-draft: true
-date:
+  - matriz
+  - matrizes
+  - Matriz
+  - Matrizes
+date: 2025-12-04
 tags:
+  - matemática
 ---
 ## 1. Definição
 
