@@ -2,7 +2,7 @@
 title:
 description:
 aliases:
-draft: true
+draft: false
 date: 2025-12-04
 tags:
   - software
