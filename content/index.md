@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Knowledge Stash
+description:
+aliases:
+draft: false
+date: 2025-12-03
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-testestestes
