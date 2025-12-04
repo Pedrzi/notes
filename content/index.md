@@ -1,9 +1,10 @@
 ---
-title: Knowledge Stash
+title: Início
 description:
 aliases:
-draft: false
+draft: true
 date: 2025-12-03
 ---
-## Por onde começar
-[[benefícios para estudantes]]
+
+nada por aqui ainda
+

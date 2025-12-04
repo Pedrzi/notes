@@ -14,15 +14,11 @@ tags:
 
 A Adobe oferece mais de 60% de desconto na Creative Cloud. Tens acesso a tudo (Photoshop, Illustrator, Premiere, Acrobat) por uma fração do preço, e ainda inclui 100GB na cloud.
 
-## [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011)
-
-Tens direito a 6 meses de Prime grátis. Depois disso, a mensalidade é metade do preço normal. Inclui entregas rápidas, Prime Video, Prime Gaming e ofertas exclusivas.
-
-## [Apple Education](https://www.apple.com/us-edu/store)
+## [Apple Education](https://www.apple.com/pt-edu/store)
 
 A Apple tem preços especiais para educação em iPads e Macs. Fica atento à campanha de Regresso às Aulas, onde costumam oferecer cartões oferta ou AirPods na compra de um computador ou tablet.
 
-## [Autodesk Education](https://www.autodesk.com/education/home "null")
+## [Autodesk Education](https://www.autodesk.com/education/home)
 
 A Autodesk oferece acesso gratuito a ferramentas profissionais como AutoCAD, Revit, Maya e Fusion 360. A licença dura um ano e podes renovar enquanto estudares.
 
