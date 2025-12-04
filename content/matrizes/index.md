@@ -54,12 +54,4 @@ $$
 
 ## Relacionado
 ---
-```base
-filters:
-  and:
-    - file.hasLink("matrizes/index")
-views:
-  - type: table
-    name: Table
-
-```
+![[tag/matriz]]
