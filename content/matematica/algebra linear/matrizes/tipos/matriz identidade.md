@@ -3,6 +3,9 @@ title: Matriz Identidade
 description:
 aliases:
   - Matriz Identidade
+  - Matriz identidade
+  - delta de kronecker
+  - Delta de kronecker
 draft: false
 date: 2025-12-04
 tags:
@@ -14,7 +17,7 @@ parent:
 
 ## Definição
 
-A **Matriz Identidade** de ordem $n$, denotada por $I_n$ (ou simplesmente $I$), é uma [[matriz escalar|Matriz Escalar]] onde todos os elementos da diagonal principal são iguais a 1 e os restantes são 0.
+A **Matriz Identidade** de ordem $n$, denotada por $I_n$ (ou simplesmente $I$), é uma [[matriz triangular|matriz escalar]] onde todos os elementos da diagonal principal são iguais a 1 e os restantes são 0.
 
 É o elemento neutro da [[multiplicacao|multiplicação de matrizes]] em $\mathcal{M}_{n}(\mathbb{K})$.
 
@@ -23,7 +26,11 @@ A **Matriz Identidade** de ordem $n$, denotada por $I_n$ (ou simplesmente $I$), 
 Os elementos de $I_n$ são definidos rigorosamente pelo **Delta de Kronecker** ($\delta_{ij}$):
 
 $$
-(I_n)_{ij} = \delta_{ij} = \begin{cases} 1, & \text{se } i=j \\ 0, & \text{se } i \neq j \end{cases}
+(I_n)_{ij} = \delta_{ij} =
+\begin{cases}
+1, & \text{se } i=j \\
+0, & \text{se } i \neq j 
+\end{cases}
 $$
 
 ## Exemplo ($I_3$)
@@ -34,7 +41,7 @@ $$
 
 ## Propriedades
 
-### 1. Elemento Neutro da Multiplicação
+### Elemento Neutro da Multiplicação
 
 Para qualquer matriz $A$ de dimensão compatível ($m \times n$):
 
@@ -47,7 +54,7 @@ $$
 A I = I A = A
 $$
 
-### 2. Inversibilidade
+### Inversibilidade
 
 A matriz identidade é a sua própria inversa:
 

@@ -4,7 +4,7 @@ description:
 aliases:
   - operações com matrizes
   - Operações Com Matrizes
-draft: true
+draft: false
 date: 2025-12-04
 tags:
 parent:

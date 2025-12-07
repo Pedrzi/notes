@@ -3,12 +3,32 @@ title: Matriz Hermitiana
 description:
 aliases:
   - Matriz Hermítica
+  - matriz hermítica
+  - matriz auto-adjunta
+  - hermitiana
 draft: true
 date: 2025-12-04
 tags:
 parent:
   - "[[matematica/algebra linear/matrizes/index|index]]"
 ---
-- **Hermítica:** $A = A^*$ (onde $A^*$ é a transconjugada: [[tranposicao|transposta]] + [[conjugacao|conjugada]] complexa). Fundamental em Mecânica Quântica.
-    - Exemplo: Se $A$ é hermítica, seus autovalores são reais.
-- **Anti-hermítica:** $A = -A^*$.
+
+## Definição
+
+Seja $n \in \mathbb{N}$. Uma matriz $A \in \mathcal{M}_{n}(\mathbb{K})$ diz-se:
+
+- Hermítica se $A^* = A$
+- Anti-Hermítica se $A^* = -A$
+
+## Exemplo
+
+A matriz $A$ é uma matriz hermítica
+
+$$
+A =
+\begin{bmatrix}
+1 & 0 & 2+3i \\
+0 & 2 & -i \\
+2-3i & i & 6
+\end{bmatrix}
+$$

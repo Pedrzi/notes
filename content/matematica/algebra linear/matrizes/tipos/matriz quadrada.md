@@ -49,12 +49,9 @@ Formada pelos elementos $a_{ij}$ onde $i + j = n + 1$ *(do canto superior direit
 A estrutura quadrada permite classificações baseadas na disposição dos zeros, simetria e inversão:
 
 - **Por disposição de elementos (Triangulação):**
-    - [[matriz triangular|Matriz Triangular]] *(Superior e Inferior)*
-    - [[matriz diagonal|Matriz Diagonal]] *(Zeros fora da diagonal principal)*
-    - [[Matriz Escalar]] e [[Matriz Identidade]] *($I_n$)*
+    - [[matriz triangular|Matriz Triangular]] *(Superior, Inferior e Diagonal)*
 - **Por Simetria (Transposição):**
     - [[matriz simetrica|Matriz Simétrica]] *($A = A^T$)*
-    - [[matriz antissimetrica|Matriz Antissimétrica]] *($A = -A^T$)*
     - [[matriz hermitiana|Matriz Hermítica]] *(Complexa: $A = A^*$)*
 - **Por Ortogonalidade e Inversão:**
     - [[matriz inversa|Matriz Inversível]] *($\det(A) \neq 0$)*
