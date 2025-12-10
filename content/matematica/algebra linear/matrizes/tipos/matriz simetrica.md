@@ -69,4 +69,6 @@ $$
 
 ## Matriz Simétrica Definida Positiva
 
-todo
+Seja $n$ um natural qualquer, $x$ uma matriz coluna qualquer com $n$ linhas e $A$ uma matriz simétrica de ordem $n$:
+
+A matriz $A$ diz-se **semi-definida positiva** se $x^TAx \geq 0$ e **definida positiva** se $x^TAx > 0$ e $x \neq 0_{n,1}$

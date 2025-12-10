@@ -17,8 +17,9 @@ Uma **matriz** é um arranjo retangular de escalares (números reais ou complexo
 
 Formalmente, uma matriz sobre um corpo $\mathbb{K}$ (como $\mathbb{R}$ ou $\mathbb{C}$) é uma função $A: \{1, \dots, m\} \times \{1, \dots, n\} \to \mathbb{K}$.
 
-- O conjunto de todas as matrizes com $m$ linhas e $n$ colunas com entradas em $\mathbb{K}$ é denotado por $\mathcal{M}_{m \times n}(\mathbb{K})$.
-- Se as entradas forem apenas reais, denota-se por $\mathcal{M}_{m \times n}(\mathbb{R})$.
+> [!note]- Notação
+> O conjunto de todas as matrizes com $m$ linhas e $n$ colunas com entradas em $\mathbb{K}$ é denotado por $\mathcal{M}_{m \times n}(\mathbb{K})$.
+
 
 ### Ordem da Matriz
 
@@ -32,7 +33,12 @@ A **ordem** (ou tipo) de uma matriz é descrita pelo formato $m \times n$.
 A matriz $A$ é de ordem $3 \times 3$ ([[matriz quadrada|quadrada]]):
 
 $$
-A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix}
+A = 
+\begin{bmatrix} 
+1 & 2 & 3 \\ 
+4 & 5 & 6 \\ 
+7 & 8 & 9  
+\end{bmatrix}
 $$
 
 A matriz $B$ é de ordem $2 \times 4$ (retangular):

@@ -57,5 +57,3 @@ A estrutura quadrada permite classificações baseadas na disposição dos zeros
     - [[matriz inversa|Matriz Inversível]] *($\det(A) \neq 0$)*
     - [[matriz ortogonal|Matriz Ortogonal]] *(Real: $A^{-1} = A^T$)*
     - [[matriz unitaria|Matriz Unitária]] *(Complexa: $A^{-1} = A^*$)*
-- **Outros:**
-    - [[matriz definida positiva|Matriz Definida Positiva]]

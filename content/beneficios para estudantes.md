@@ -7,7 +7,7 @@ tags:
   - software
   - produtividade
 ---
-> [!tip]
+> [!tip] Atenção
 > Para a maioria destes serviços, precisará de validar o seu estatuto de estudante. Tenha à mão o seu **email institucional** ou o seu cartão de estudante válido. Serviços como o _UNiDAYS_ ou _SheerID_ são frequentemente usados para esta verificação instantânea.
 
 ## [Adobe Creative Cloud](https://www.adobe.com/pt/creativecloud/buy/students.html)
@@ -21,6 +21,10 @@ A Apple tem preços especiais para educação em iPads e Macs. Fica atento à ca
 ## [Autodesk Education](https://www.autodesk.com/education/home)
 
 A Autodesk oferece acesso gratuito a ferramentas profissionais como AutoCAD, Revit, Maya e Fusion 360. A licença dura um ano e podes renovar enquanto estudares.
+
+## [Cartão FNAC](https://www.fnac.pt/magazine/home_adherents.asp)
+
+Ao aderir ao cartão FNAC tens promoções exclusivas nos produtos da loja. Estudantes podem aderir de graça.
 
 ## [GitHub Student Developer Pack](https://education.github.com/pack)
 
