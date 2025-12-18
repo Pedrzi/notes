@@ -2,6 +2,8 @@
 title: Benefícios para Estudantes
 description:
 aliases:
+  - benefícios para estudantes
+  - Benefícios para Estudantes
 date: 2025-12-04
 tags:
   - software
@@ -44,7 +46,7 @@ O plano "Plus" é gratuito para estudantes. Dá-te uploads de ficheiros ilimitad
 
 ## [Samsung](https://www.samsung.com/pt/offer/student-discounts/)
 
-Se preferes Android ou Linux/Windows, a Samsung tem um portal dedicado a estudantes com descontos diretos em smartphones Galaxy, tablets, portáteis Galaxy Book e até eletrodomésticos.
+Se preferes Android ou [[linux/index|Linux]]/Windows, a Samsung tem um portal dedicado a estudantes com descontos diretos em smartphones Galaxy, tablets, portáteis Galaxy Book e até eletrodomésticos.
 
 ## [Spotify Premium para Estudantes](https://support.spotify.com/pt-pt/article/premium-student/)
 

@@ -19,7 +19,7 @@ parent:
 
 A **Matriz Identidade** de ordem $n$, denotada por $I_n$ (ou simplesmente $I$), é uma [[matriz triangular|matriz escalar]] onde todos os elementos da diagonal principal são iguais a 1 e os restantes são 0.
 
-É o elemento neutro da [[multiplicacao|multiplicação de matrizes]] em $\mathcal{M}_{n}(\mathbb{K})$.
+É o elemento neutro da [[multiplicacao de matrizes|multiplicação de matrizes]] em $\mathcal{M}_{n}(\mathbb{K})$.
 
 ### Notação (Delta de Kronecker)
 

@@ -2,6 +2,12 @@
 title: Matrizes Quadradas
 description:
 aliases:
+  - Matriz quadrada
+  - matriz quadrada
+  - matrizes quadradas
+  - Matrizes quadradas
+  - Matriz Quadrada
+  - Matrizes Quadradas
 date: 2025-12-04
 tags:
   - matemática
@@ -12,7 +18,7 @@ parent:
 
 ## Definição
 
-Uma **Matriz Quadrada** é uma matriz onde o número de linhas ($m$) é estritamente igual ao número de colunas ($n$).
+Uma **Matriz Quadrada** é uma [[matematica/algebra linear/matrizes/index|matriz]] onde o número de linhas ($m$) é estritamente igual ao número de colunas ($n$).
 
 Dizemos que $A$ é uma matriz quadrada de **ordem** $n$. O conjunto dessas matrizes sobre um corpo $\mathbb{K}$ é denotado por $\mathcal{M}_{n}(\mathbb{K})$.
 

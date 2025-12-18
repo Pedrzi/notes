@@ -3,6 +3,12 @@ title: Matriz Inversa
 description:
 aliases:
   - Matriz Inversível
+  - matriz inversa
+  - matriz singular
+  - matriz invertível
+  - matrizes inversas
+  - matrizes invertíveis
+  - matrizes inversíveis
 draft: false
 date: 2025-12-04
 tags:
@@ -15,16 +21,16 @@ parent:
 
 Seja $A \in \mathcal{M}_{n}(\mathbb{K})$ uma [[matriz quadrada|Matrizes Quadradas]] de ordem $n$.
 
-Diz-se que $A$ é **invertível** se existir uma única matriz $B \in \mathcal{M}_{n}(\mathbb{K})$ tal que:
+Diz-se que $A$ é **invertível** se existir uma única [[matematica/algebra linear/matrizes/index|matriz]] $B \in \mathcal{M}_{n}(\mathbb{K})$ tal que:
 
 $$
 AB = BA = I_n
 $$
 
-Onde $I_n$ é a [[Matriz Identidade]] de ordem $n$. A matriz $B$ é designada por **inversa** de $A$ e representa-se por $A^{-1}$.
+Onde $I_n$ é a [[Matriz Identidade]] de ordem $n$. A [[matematica/algebra linear/matrizes/index|matriz]] $B$ é designada por **inversa** de $A$ e representa-se por $A^{-1}$.
 
 > [!warning] Atenção
->  Uma matriz quadrada que **não** admite inversa diz-se **singular** ou **não invertível**.
+>  Uma [[matriz quadrada]] que **não** admite inversa diz-se **singular** ou **não invertível**.
 
 ## Teorema: Unicidade da Inversa
 
@@ -62,7 +68,7 @@ $$
 $$
 (AB)^{-1} = B^{-1}A^{-1}
 $$
-3. **Inversa da Transposta:** A operação de inversão comuta com a [[transposicao|transposição]].
+3. **Inversa da [[transposicao|Transposta]]:** A operação de inversão comuta com a [[transposicao|transposição]].
 $$
 (A^T)^{-1} = (A^{-1})^T
 $$
