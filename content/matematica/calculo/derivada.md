@@ -10,7 +10,7 @@ parent:
 ---
 ## Definição
 
-A derivada de uma [[funcao|função]] $f$ num ponto $x$ representa a taxa de variação instantânea de $f$ em relação a $x$. Formalmente, é definida pelo [[limite]]:
+A derivada de uma [[matematica/funcoes/index|função]] $f$ num ponto $x$ representa a taxa de variação instantânea de $f$ em relação a $x$. Formalmente, é definida pelo [[limite]]:
 
 $$\frac{df}{dx} = \lim_{ \Delta x \to 0 } \frac{f(x+ \Delta x) - f(x)}{\Delta x}$$
 

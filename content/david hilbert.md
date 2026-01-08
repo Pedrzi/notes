@@ -14,7 +14,7 @@ death: 1943-02-14
 ---
 **David Hilbert** (1862 - 1943) foi um matemático alemão, reconhecido como um dos mais influentes do século XX. ^bd1930
 
-> [!note]- Hilbert em 1912
+> [!info]- Hilbert em 1912
 > ![[Hilbert.jpg\|200]]
 
 ## Biografia
