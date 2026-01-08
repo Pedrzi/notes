@@ -1,14 +1,22 @@
 ---
-title: Funcao Identidade
+title: Função Identidade
 description:
 aliases:
   - Funcao Identidade
+  - Função Identidade
+  - A identidade
+  - a identidade
+  - identidade
+  - Identidade
+  - Função identidade
+  - função identidade
 draft: false
 date: 2026-01-08
 tags:
   - matemática
-  - função/tipo
+  - função
 parent:
+  - "[[matematica/funcoes/index]]"
 ---
 
 ## Definição

@@ -2,17 +2,41 @@
 title: Derivada
 description:
 aliases:
+  - derivada
+  - Derivada
+  - DERIVADA
+  - função derivada
+  - Função derivada
+  - Função Derivada
+  - derivada da função
+  - Derivada da função
+  - derivada primeira
+  - Derivada primeira
+  - Derivada Primeira
+  - primeira derivada
+  - Primeira derivada
+  - Primeira Derivada
+  - derivada de primeira ordem
+  - Derivada de primeira ordem
+  - Derivada de Primeira Ordem
+  - derivação
+  - Derivação
+  - derivação da função
+  - Derivação da função
 draft: false
 date: 2025-12-13
 tags:
   - matemática
 parent:
 ---
+
 ## Definição
 
 A derivada de uma [[matematica/funcoes/index|função]] $f$ num ponto $x$ representa a taxa de variação instantânea de $f$ em relação a $x$. Formalmente, é definida pelo [[limite]]:
 
-$$\frac{df}{dx} = \lim_{ \Delta x \to 0 } \frac{f(x+ \Delta x) - f(x)}{\Delta x}$$
+$$
+\frac{df}{dx} = \lim_{ \Delta x \to 0 } \frac{f(x+ \Delta x) - f(x)}{\Delta x}
+$$
 
 > [!note]- Notação
 >  A derivada pode ser denotada por: $f'(x)$, $\dot{f}$ (notação de [[Newton]]), $\frac{df}{dx}$ (notação de [[Leibniz]]) ou $D_{x}f$.
@@ -22,6 +46,7 @@ $$\frac{df}{dx} = \lim_{ \Delta x \to 0 } \frac{f(x+ \Delta x) - f(x)}{\Delta x}
 Para os exemplos abaixo, considere as funções elementares:
 
 $g(x) = \sin x \implies g'(x) = \cos x$
+
 $h(x) = x^2 \implies h'(x) = 2x$
 
 ### 1. Regra da Potência
@@ -92,4 +117,6 @@ $$
 
 Seja $f(x) = \sin(x^2)$. Aqui a função "de fora" é seno e a "de dentro" é $x^2$.
 
-$$\frac{df}{dx} = \cos(x^2) \cdot 2x$$
+$$
+\frac{df}{dx} = \cos(x^2) \cdot 2x
+$$
