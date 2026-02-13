@@ -1,19 +1,13 @@
 ---
-title: Transconjugada
+title: conjugado transposto
 description:
-aliases:
-  - transconjugada
-  - transposto hermitiano
-  - Matriz Transconjugada
-  - matriz transconjugada
-  - Matriz transconjugada
-  - Transconjugada
+aliases: [transconjugada, transposto hermitiano, Matriz Transconjugada, matriz transconjugada, Matriz transconjugada, Transconjugada]
 draft: false
 date: 2025-12-07
-tags:
-  - matemática
-  - matriz
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:46Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

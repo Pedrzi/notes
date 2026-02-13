@@ -1,15 +1,13 @@
 ---
-title: Teorema De Darboux
+title: teorema de darboux
 description: Teorema descrito pelo matemático Gaston Darboux
-aliases:
-  - Teorema De Darboux
-  - Teorema de Darboux
+aliases: [Teorema De Darboux, Teorema de Darboux]
 draft: false
 date: 2025-12-15
-tags:
-  - matemática
-  - TODO
+tags: [math, TODO]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

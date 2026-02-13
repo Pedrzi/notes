@@ -1,10 +1,11 @@
 ---
-title: Normalização
+title: normalizacao
 description:
-aliases:
+aliases: []
 draft: true
 date: 2025-12-07
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:46Z
+modificado: 2026-02-06T11:58:19Z
 ---

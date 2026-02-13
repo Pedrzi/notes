@@ -1,16 +1,15 @@
 ---
-title: David Hilbert
+title: david hilbert
 description: Um do maiores matemáticos do século XX.
-aliases:
-  - David Hilbert
+aliases: [David Hilbert]
 draft: false
 date: 2025-12-14
-tags:
-  - matemática
-  - pessoa
+tags: [person, math]
 parent:
 birth: 1862-01-23
 death: 1943-02-14
+criado: 2026-02-05T13:46:43Z
+modificado: 2026-02-06T11:58:19Z
 ---
 **David Hilbert** (1862 - 1943) foi um matemático alemão, reconhecido como um dos mais influentes do século XX. ^bd1930
 

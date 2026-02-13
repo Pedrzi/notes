@@ -1,25 +1,13 @@
 ---
-title: Aplicação Linear
+title: aplicacao linear
 description:
-aliases:
-  - Aplicacao Linear
-  - Aplicação linear
-  - aplicação linear
-  - Aplicação Linear
-  - transformação linear
-  - Transformação linear
-  - Mapa linear
-  - mapa linear
-  - aplicações lineares
-  - Aplicações lineares
-  - mapas lineares
-  - Transformações lineares
-  - transformações lineares
+aliases: [Aplicacao Linear, Aplicação linear, aplicação linear, Aplicação Linear, transformação linear, Transformação linear, Mapa linear, mapa linear, aplicações lineares, Aplicações lineares, mapas lineares, Transformações lineares, transformações lineares]
 draft: true
 date: 2025-12-19
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

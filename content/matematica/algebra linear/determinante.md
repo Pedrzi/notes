@@ -1,22 +1,13 @@
 ---
-title: Determinante
+title: determinante
 description:
-aliases:
-  - Determinante
-  - regra de sarrus
-  - Regra de sarrus
-  - Regra de Sarrus
-  - Fórmula de Laplace
-  - Fórmula de LaPlace
-  - Fórmula De LaPlace
-  - fórmula de laplace
-  - determinantes
-  - Determinantes
+aliases: [Determinante, regra de sarrus, Regra de sarrus, Regra de Sarrus, Fórmula de Laplace, Fórmula de LaPlace, Fórmula De LaPlace, fórmula de laplace, determinantes, Determinantes]
 draft: false
 date: 2025-12-18
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

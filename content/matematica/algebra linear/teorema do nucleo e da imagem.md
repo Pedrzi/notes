@@ -1,16 +1,13 @@
 ---
-title: Teorema do Núcleo e da Imagem
+title: teorema do nucleo e da imagem
 description:
-aliases:
-  - Teorema Do Nucleo E Da Imagem
-  - Teorema do Núcleo e da Imagem
-  - teorema do núcleo e da imagem
-  - Teorema do núcleo e da imagem
+aliases: [Teorema Do Nucleo E Da Imagem, Teorema do Núcleo e da Imagem, teorema do núcleo e da imagem, Teorema do núcleo e da imagem]
 draft: false
 date: 2025-12-18
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

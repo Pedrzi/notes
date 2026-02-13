@@ -1,18 +1,14 @@
 ---
-title: Aplicação Vazia
+title: aplicao vazia
 description:
-aliases:
-  - Aplicao Vazia
-  - Aplicação Vazia
-  - Aplicação vazia
-  - aplicação vazia
+aliases: [Aplicao Vazia, Aplicação Vazia, Aplicação vazia, aplicação vazia]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
-  - função
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:43Z
+modificado: 2026-02-06T11:58:19Z
 ---
 ## Definição
 

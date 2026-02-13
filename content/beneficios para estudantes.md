@@ -1,13 +1,10 @@
 ---
-title: Benefícios para Estudantes
+title: beneficios para estudantes
 description:
-aliases:
-  - benefícios para estudantes
-  - Benefícios para Estudantes
+aliases: [benefícios para estudantes, Benefícios para Estudantes]
 date: 2025-12-04
-tags:
-  - software
-  - produtividade
+criado: 2026-02-05T13:46:43Z
+modificado: 2026-02-06T11:58:19Z
 ---
 > [!tip] Atenção
 > Para a maioria destes serviços, precisará de validar o seu estatuto de estudante. Tenha à mão o seu **email institucional** ou o seu cartão de estudante válido. Serviços como o _UNiDAYS_ ou _SheerID_ são frequentemente usados para esta verificação instantânea.
@@ -46,7 +43,7 @@ O plano "Plus" é gratuito para estudantes. Dá-te uploads de ficheiros ilimitad
 
 ## [Samsung](https://www.samsung.com/pt/offer/student-discounts/)
 
-Se preferes Android ou [[linux/index|Linux]]/Windows, a Samsung tem um portal dedicado a estudantes com descontos diretos em smartphones Galaxy, tablets, portáteis Galaxy Book e até eletrodomésticos.
+Se preferes Android ou [[40_Garden/computacao/linux/index|Linux]]/Windows, a Samsung tem um portal dedicado a estudantes com descontos diretos em smartphones Galaxy, tablets, portáteis Galaxy Book e até eletrodomésticos.
 
 ## [Spotify Premium para Estudantes](https://support.spotify.com/pt-pt/article/premium-student/)
 

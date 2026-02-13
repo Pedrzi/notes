@@ -1,22 +1,14 @@
 ---
-title: Função Identidade
+title: funcao identidade
 description:
-aliases:
-  - Funcao Identidade
-  - Função Identidade
-  - A identidade
-  - a identidade
-  - identidade
-  - Identidade
-  - Função identidade
-  - função identidade
+aliases: [Funcao Identidade, Função Identidade, A identidade, a identidade, identidade, Identidade, Função identidade, função identidade]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
-  - função
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

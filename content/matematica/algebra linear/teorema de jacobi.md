@@ -1,15 +1,13 @@
 ---
-title: Teorema de Jacobi
+title: teorema de jacobi
 description:
-aliases:
-  - Teorema De Jacobi
-  - Teorema de jacobi
-  - Teorema de Jacobi
+aliases: [Teorema De Jacobi, Teorema de jacobi, Teorema de Jacobi]
 draft: false
 date: 2025-12-19
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Enunciado

@@ -1,33 +1,13 @@
 ---
-title: Derivada
+title: derivada
 description:
-aliases:
-  - derivada
-  - Derivada
-  - DERIVADA
-  - função derivada
-  - Função derivada
-  - Função Derivada
-  - derivada da função
-  - Derivada da função
-  - derivada primeira
-  - Derivada primeira
-  - Derivada Primeira
-  - primeira derivada
-  - Primeira derivada
-  - Primeira Derivada
-  - derivada de primeira ordem
-  - Derivada de primeira ordem
-  - Derivada de Primeira Ordem
-  - derivação
-  - Derivação
-  - derivação da função
-  - Derivação da função
+aliases: [derivada, Derivada, DERIVADA, função derivada, Função derivada, Função Derivada, derivada da função, Derivada da função, derivada primeira, Derivada primeira, Derivada Primeira, primeira derivada, Primeira derivada, Primeira Derivada, derivada de primeira ordem, Derivada de primeira ordem, Derivada de Primeira Ordem, derivação, Derivação, derivação da função, Derivação da função]
 draft: false
 date: 2025-12-13
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

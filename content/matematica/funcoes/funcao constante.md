@@ -1,18 +1,14 @@
 ---
-title: Função Constante
+title: funcao constante
 description:
-aliases:
-  - Funcao Constante
-  - Função Constante
-  - Função constante
-  - função constante
+aliases: [Funcao Constante, Função Constante, Função constante, função constante]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
-  - função/tipo
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

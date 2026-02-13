@@ -1,16 +1,13 @@
 ---
-title: Regra de L'Hôpital
+title: "regra de l'hopital"
 description: Também conhecida como regra de Bernoulli.
-aliases:
-  - Regra De L'Hopital
-  - Regra de L'Hôpital
-  - regra de bernoulli
-  - Regra de Bernoulli
+aliases: [Regra De L'Hopital, Regra de L'Hôpital, regra de bernoulli, Regra de Bernoulli]
 draft: false
 date: 2025-12-15
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Teorema

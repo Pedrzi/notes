@@ -1,34 +1,14 @@
 ---
-title: Funcao Sobrejetiva
+title: funcao sobrejetiva
 description:
-aliases:
-  - função sobrejetiva
-  - Função sobrejetiva
-  - Função Sobrejetiva
-  - sobrejetividade
-  - Sobrejetividade
-  - função sobrejetora
-  - Função sobrejetora
-  - Função Sobrejetora
-  - sobrejetora
-  - Sobrejetora
-  - função sobrejectiva
-  - Função sobrejectiva
-  - Função Sobrejectiva
-  - sobrejectiva
-  - Sobrejectiva
-  - função onto
-  - Função onto
-  - onto
-  - sobrejetiva
-  - Sobrejetiva
+aliases: [função sobrejetiva, Função sobrejetiva, Função Sobrejetiva, sobrejetividade, Sobrejetividade, função sobrejetora, Função sobrejetora, Função Sobrejetora, sobrejetora, Sobrejetora, função sobrejectiva, Função sobrejectiva, Função Sobrejectiva, sobrejectiva, Sobrejectiva, função onto, Função onto, onto, sobrejetiva, Sobrejetiva]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
-  - função
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

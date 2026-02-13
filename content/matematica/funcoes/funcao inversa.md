@@ -1,20 +1,14 @@
 ---
-title: Função Inversa
+title: funcao inversa
 description:
-aliases:
-  - Funcao Inversa
-  - Função Inversa
-  - Inversa
-  - Função inversa
-  - inversa
-  - função inversa
-  - invertível
+aliases: [Funcao Inversa, Função Inversa, Inversa, Função inversa, inversa, função inversa, invertível]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

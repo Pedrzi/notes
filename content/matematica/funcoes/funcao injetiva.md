@@ -1,28 +1,14 @@
 ---
-title: Injetividade
+title: funcao injetiva
 description:
-aliases:
-  - função injetiva
-  - Função injetiva
-  - Função Injetiva
-  - injetividade
-  - Injetividade
-  - função injetora
-  - Função Injetora
-  - Função injetora
-  - injectiva
-  - Injectiva
-  - função injectiva
-  - Função Injectiva
-  - Injetiva
-  - injetiva
+aliases: [função injetiva, Função injetiva, Função Injetiva, injetividade, Injetividade, função injetora, Função Injetora, Função injetora, injectiva, Injectiva, função injectiva, Função Injectiva, Injetiva, injetiva]
 draft: false
 date: 2025-12-19
-tags:
-  - matemática
-  - função
+tags: [math]
 parent:
   - "[[matematica/funcoes/index]]"
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

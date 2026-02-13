@@ -1,18 +1,13 @@
 ---
-title: Vetor Próprio
+title: vetor proprio
 description:
-aliases:
-  - autovetor
-  - autovalor
-  - Vetor próprio
-  - Vetor Próprio
-  - valor próprio
-  - Valor próprio
+aliases: [autovetor, autovalor, Vetor próprio, Vetor Próprio, valor próprio, Valor próprio]
 draft: false
 date: 2025-12-04
-tags:
-  - matemática
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição

@@ -1,24 +1,13 @@
 ---
-title: Funções
+title: index
 description:
-aliases:
-  - Funcao
-  - Função
-  - função
-  - aplicação
-  - Aplicação
-  - domínio
-  - Domínio
-  - Codomínio
-  - codomínio
-  - contradomínio
-  - Contradomínio
+aliases: [Funcao, Função, função, aplicação, Aplicação, domínio, Domínio, Codomínio, codomínio, contradomínio, Contradomínio]
 draft: false
 date: 2026-01-08
-tags:
-  - matemática
-  - função
+tags: [math]
 parent:
+criado: 2026-02-05T13:46:44Z
+modificado: 2026-02-06T11:58:19Z
 ---
 
 ## Definição
